@@ -1,4 +1,5 @@
 # concurrencylab: Channels in C
+# Original repository was part of CMPSC 473 (Spring 2025) coursework
 
 ## Introduction
 
